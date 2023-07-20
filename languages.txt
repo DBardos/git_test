@@ -1,0 +1,25 @@
+HTML is used to create the genergal structure of a website
+CSS is used to make the website more appealing by applying style to HTML
+Javascript adds interactivity to web pages, handles complex functions and features, and 
+    implements programmatic code to enhance website functionality.
+
+Other languages, such as: PHP, Python, Ruby, and SQL, are also involved in web development
+    though HTML, CSS, and Javascript are enough to understand the fundamentals of web design and
+    development.
+Ruby is a fast language which can help build extensive sites in short time; Combined with
+    the Ruby on rails framework, the language provides everything needed to build a website. 
+SQL is employed to maintain and optimize large databases in an efficicent manner.
+
+Different objectives utilize different coding languages. But preference always holds value.
+
+HTML allows a website owner to create basic structure of a website, from which you can use 
+    other coding languages to enhance the website's design.
+CSS is focused on improving the presentation of HTML elements.
+Javascript is among the most important programming languages for web designers who want to make 
+    a website more interactive, and is accordingly the most complicated of the 3 fundamentals.
+    Javascript offers tools to alter the behavior of elements on the page. A menu page with a drop-
+    down menu, for example, is created with Javascript. 
+For learning front-end website development, the most important languages are; HTML5, CSS3, 
+    Bootstrap, and Javascript.
+For back-end development, languages such as; Python, Ruby, and PHP are more relevant.
+

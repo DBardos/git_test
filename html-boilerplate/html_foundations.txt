@@ -1,0 +1,32 @@
+Always name the html file containing the homepage "index.html" because servers will look for
+    an index.html page by default when users land on our web pages.
+
+Every html page starts with a doctype declaration.
+In the case of HTML5, this declaration is:
+    <!DOCTYPE html>
+
+Then, provide an html element: the root element of the document, meaning that every other
+    element in the document will be a descendent of the root.
+
+
+The <head> element is where meta-information regarding the document is placed. Including
+    information needed for webpages to correctly render in the browser.
+    
+    The charset meta element is nested in the head element.
+        Always have the meta tag fpr the charset encoding of the webpage in the
+        head element : <meta charset="UTF-8">
+        The encoding ensures that special characters and symbols from different languages
+        are displayed correctly in the browser.
+
+    Another element to be included in the head of the document is the <title> element:
+        <title> First webpage </title>
+    The title element gives a readable title to the page.
+    In lieu of a title element, the file name would by default apply to the websites title.
+
+The <body> element is where text, images, lists, links, etc. go within an html document. The body
+    element goes within the html element and is always below the head element.
+
+HTML documents can be opened in the terminal by chrome with the command: 
+    google-chrome <filename.html>
+
+
